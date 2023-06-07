@@ -1,0 +1,15 @@
+cdk init --language=typescript
+
+cdk bootstrap
+
+cdk synth
+
+cdk deploy
+
+cdk list # diff local
+
+cdk diff
+
+cdk doctor	
+
+cdk destroy
